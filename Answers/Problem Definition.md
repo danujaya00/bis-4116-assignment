@@ -13,3 +13,11 @@ a. Specific Business Question or Challenge
 
   - High employee turnover is a critical problem for any organization because it leads to lost productivity,
   increased recruitment costs, and a loss of institutional knowledge.
+
+- Sub-questions to answer:
+
+  - What is the current attrition rate? Is it higher in specific departments or job roles?
+
+  - Is there a significant correlation between Distance From Home and attrition? 
+  - Does a lower Monthly Income or lack of Stock Option Level directly lead to higher turnover?
+  - Root Cause: Are employees leaving because of "burnout" or "stagnation"?
