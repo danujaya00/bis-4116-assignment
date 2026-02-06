@@ -1,0 +1,44 @@
+HR EMPLOYEE ATTRITION ANALYSIS - KEY FINDINGS SUMMARY
+
+1. OVERALL STATISTICS
+   - Total Employees: 1470
+   - Employees with Attrition: 237
+   - Attrition Rate: 16.12%
+
+2. ATTRITION BY DEPARTMENT
+   - Sales: 20.63% (92/446)
+   - Human Resources: 19.05% (12/63)
+   - Research & Development: 13.84% (133/961)
+
+3. TOP 5 HIGH-RISK JOB ROLES (Highest Attrition Rates)
+   - Sales Representative: 39.76% (33/83)
+   - Laboratory Technician: 23.94% (62/259)
+   - Human Resources: 23.08% (12/52)
+   - Sales Executive: 17.48% (57/326)
+   - Research Scientist: 16.10% (47/292)
+
+4. KEY INSIGHTS
+   - Average Income (Stayed): $6,832.74
+   - Average Income (Left): $4,787.09
+   - Income Difference: $2,045.65 (42.7% higher for staying)
+
+   - Attrition Rate (No Overtime): 10.44%
+   - Attrition Rate (With Overtime): 30.53%
+   - Overtime Impact: 20.09% increase
+
+   - Average Tenure (Stayed): 7.4 years
+   - Average Tenure (Left): 5.1 years
+
+   - Attrition Rate by Stock Option Level:
+     Level 0: 24.41%
+     Level 1: 9.40%
+     Level 2: 7.59%
+     Level 3: 17.65%
+
+5. RECOMMENDATIONS
+   - Focus retention efforts on Sales Representatives and Laboratory Technicians
+   - Review compensation packages for employees with lower monthly income
+   - Implement overtime management policies to improve work-life balance
+   - Enhance stock option programs for better employee retention
+   - Monitor employees in their first few years (higher attrition risk)
+   - Address work-life balance concerns, especially in Sales department
