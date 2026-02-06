@@ -152,3 +152,6 @@ tmp/
 # Idea project stuff
 .idea/
 .idea
+
+# Test data
+test_data
